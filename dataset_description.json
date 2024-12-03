@@ -1,18 +1,32 @@
 {
-    "Acknowledgements": "https://docs.cneuromod.ca/en/latest/AUTHORS.html",
+    "Name": "emotion-videos.physprep sub-dataset of the Courtois-Neuromod project processed with physprep - custom python scripts",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "physprep",
+            "CodeURL": "https://github.com/courtois-neuromod/physprep"
+        }
+    ],
+    "HowToAcknowledge": "Please cite our paper (), and include the generated citation boilerplate within the Methods section of the text.",
+    "SourceDatasets": [
+        {
+	    "name": "cneuromod emotion-videos dataset",
+            "URL": "https://github.com/courtois-neuromod/emotion-videos"
+        }
+    ],
+    "License": "https://docs.cneuromod.ca/en/latest/ACCESS.html#data-transfer-agreement-(dta)",
+    "ReferencesAndLinks": [
+        "https://docs.cneuromod.ca/"
+    ],
     "Authors": [
         "Pierre Bellec",
         "Julie Boyle",
         "Basile Pinsard"
     ],
-    "BIDSVersion": "1.0.1",
     "Funding": [
         "Courtois Foundation"
     ],
-    "HowToAcknowledge": "https://docs.cneuromod.ca/en/latest/ACCESS.html#how-to-acknowledge",
-    "License": "https://docs.cneuromod.ca/en/latest/ACCESS.html#data-transfer-agreement-(dta)",
-    "Name": "<xxxxx> sub-dataset of the Courtois-Neuromod project",
-    "ReferencesAndLinks": [
-        "https://docs.cneuromod.ca/"
-    ]
+    "Acknowledgements": "https://docs.cneuromod.ca/en/latest/AUTHORS.html",
+    "HowToAcknowledge": "https://docs.cneuromod.ca/en/latest/ACCESS.html#how-to-acknowledge"
 }

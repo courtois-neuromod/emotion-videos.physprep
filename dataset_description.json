@@ -1,6 +1,6 @@
 {
     "Name": "emotion-videos.physprep sub-dataset of the Courtois-Neuromod project processed with physprep - custom python scripts",
-    "BIDSVersion": "1.9.0",
+    "BIDSVersion": "1.11.1",
     "DatasetType": "derivative",
     "GeneratedBy": [
         {

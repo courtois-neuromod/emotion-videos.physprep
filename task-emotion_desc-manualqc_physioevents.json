@@ -1,0 +1,17 @@
+{
+    "trial_type": {
+        "LongName": "Manually QCed physiological events category",
+        "Description": "Indicator of the physiological event after manual quality check (QC)",
+        "Levels": {
+            "r_peak_manually_corrected": "R peak manually QCed",
+            "systolic_peak_manually_corrected": "Systolic peak manually QCed"
+        }
+    },
+    "channel": {
+        "Description": "Physiological modality associated with the event",
+        "Levels": {
+            "ECG": "Continuous preprocessed electrocardiogram measurement",
+            "PPG": "Continuous preprocessed pulse measurement"
+        }
+    }
+}

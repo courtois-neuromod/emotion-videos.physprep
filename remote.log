@@ -1,0 +1,1 @@
+5108a7b1-e881-4679-976f-d91a5a02feff autoenable=true bucket=cneuromod.emotion-videos.physprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.emotion-videos.physprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353006s
